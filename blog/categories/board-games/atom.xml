@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: board games | Mark Williams]]></title>
+  <link href="http://www.readysetmark.com/blog/categories/board-games/atom.xml" rel="self"/>
+  <link href="http://www.readysetmark.com/"/>
+  <updated>2013-08-22T01:34:31+00:00</updated>
+  <id>http://www.readysetmark.com/</id>
+  <author>
+    <name><![CDATA[Mark Williams]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Smash Up Deck Generator]]></title>
+    <link href="http://www.readysetmark.com/blog/smash-up-deck-generator/"/>
+    <updated>2013-01-12T00:51:00+00:00</updated>
+    <id>http://www.readysetmark.com/blog/smash-up-deck-generator</id>
+    <content type="html"><![CDATA[<p>For anyone playing the card game <a href="http://www.alderac.com/smashup/">Smash Up</a>, and wants to add randomness to deck building, I&rsquo;ve built a quick <a href="/smashup/">tool</a> for generating decks for 2-4 players.</p>
+]]></content>
+  </entry>
+  
+</feed>

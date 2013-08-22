@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: JavaScript | Mark Williams]]></title>
+  <link href="http://www.readysetmark.com/blog/categories/javascript/atom.xml" rel="self"/>
+  <link href="http://www.readysetmark.com/"/>
+  <updated>2013-08-22T01:34:31+00:00</updated>
+  <id>http://www.readysetmark.com/</id>
+  <author>
+    <name><![CDATA[Mark Williams]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Smash Up Deck Generator]]></title>
+    <link href="http://www.readysetmark.com/blog/smash-up-deck-generator/"/>
+    <updated>2013-01-12T00:51:00+00:00</updated>
+    <id>http://www.readysetmark.com/blog/smash-up-deck-generator</id>
+    <content type="html"><![CDATA[<p>For anyone playing the card game <a href="http://www.alderac.com/smashup/">Smash Up</a>, and wants to add randomness to deck building, I&rsquo;ve built a quick <a href="/smashup/">tool</a> for generating decks for 2-4 players.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Monster Battle]]></title>
+    <link href="http://www.readysetmark.com/blog/monster-battle/"/>
+    <updated>2012-07-20T00:50:00+00:00</updated>
+    <id>http://www.readysetmark.com/blog/monster-battle</id>
+    <content type="html"><![CDATA[<p>Since graduating from university, I&rsquo;ve somehow managed to avoid having to do
+much in the way of frontend web programming. I&rsquo;ve done work on the backend
+side of a webapp, including writing an HTTP server and handling data synchronization,
+but I&rsquo;m out of touch or just clueless when it comes to things like HTML, CSS,
+JavaScript, jQuery, and anything related.</p>
+
+<p>However, since I&rsquo;ve got a personal project that I want to write as a webapp, and
+also because we&rsquo;re ramping on web development projects at work, the time has
+come for me to get a good handle the parts of web development that have so far
+eluded me.</p>
+
+<p>A couple of weeks ago, I spent about four days intensely reading and typing out
+the code in <a href="http://www.eloquentjavascript.net">Eloquent JavaScript</a>.
+I found it to be a good read and a nice introduction to writing JavaScript.</p>
+
+<p>As way to continue my learning and get accustomed to writing JavaScript code, I
+decided to reproduce a neat little text game found in the book <a href="http://www.landoflisp.com">Land of Lisp</a>
+by Conrad Barski. In the book, the game is called &ldquo;Orc Battle&rdquo;, but I&rsquo;ve called
+my version &ldquo;Monster Battle&rdquo;, which seems more appropriate to me, because you
+fight more than orcs.</p>
+
+<p>Functionally, it is pretty much the same game, though I had to handle prompting
+the user for input a bit differently, since on the web you can&rsquo;t just stop
+mid-function and wait for the user to type something (the original game was
+written for a console window).</p>
+
+<p><a href="/monsterbattle/">Play</a> the game, or checkout the
+<a href="http://www.github.com/readysetmark/monster-battle-js">code</a> on github.</p>
+]]></content>
+  </entry>
+  
+</feed>
